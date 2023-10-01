@@ -43,7 +43,7 @@ nav ul li a:hover {
 
 .brand {
     font-family: 'Poppins', sans-serif;
-    color: #6699ff;
+    color: #5bb1bc;
     font-size: 25px;
     font-weight: bold;
 }
@@ -70,7 +70,7 @@ nav ul li a:hover {
 .home p:nth-child(3){
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
-    color: #6699ff;
+    color: #5bb1bc;
     font-size: 32px;
 }
 
